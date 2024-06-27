@@ -1,0 +1,11 @@
+id,nombre,descripcion,created_at,updated_at,disabled_at
+1,Cardiologia,"Especialidad medica que se encarga del estudio, diagnostico y tratamiento de las enfermedades del corazon y del sistema circulatorio.","2023-08-25 22:07:18","2023-10-15 22:07:18","2023-10-25 22:07:18"
+2,Dermatologia,"Rama de la medicina que se encarga del estudio de la piel, su estructura, funcion y enfermedades.","2023-02-18 22:07:18","2023-05-02 22:07:18",NULL
+3,Gastroenterologia,"Especialidad medica que se ocupa del estudio, diagnostico y tratamiento de las enfermedades del aparato digestivo.","2022-05-10 22:07:18","2022-05-25 22:07:18","2022-07-02 22:07:18"
+4,Neurologia,"Rama de la medicina que estudia el sistema nervioso y sus enfermedades.","2022-11-30 22:07:18","2023-02-07 22:07:18",NULL
+5,Oncologia,"Especialidad medica dedicada al estudio y tratamiento del cancer.","2023-12-21 22:07:18","2024-02-25 22:07:18",NULL
+6,Pediatria,"Rama de la medicina que estudia al nino y sus enfermedades.","2022-05-06 22:07:18","2022-05-17 22:07:18","2022-08-23 22:07:18"
+7,Psiquiatria,"Especialidad medica que se ocupa del estudio, diagnostico y tratamiento de las enfermedades mentales.","2023-01-31 22:07:18","2023-02-19 22:07:18","2023-04-12 22:07:18"
+8,Reumatologia,"Rama de la medicina que se dedica al estudio de las enfermedades reumaticas.","2023-08-18 22:07:18","2023-10-04 22:07:18","2023-11-21 22:07:18"
+9,Urologia,"Especialidad medica que se encarga del estudio y tratamiento de las enfermedades del sistema urinario.","2022-06-15 22:07:18","2022-08-13 22:07:18","2022-08-18 22:07:18"
+10,Endocrinologia,"Rama de la medicina que se ocupa del estudio y tratamiento de las enfermedades del sistema endocrino.","2021-11-07 22:07:18","2022-01-18 22:07:18",NULL
